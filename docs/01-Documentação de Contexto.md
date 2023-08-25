@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+No cenário atual, onde a conveniência e a otimização do tempo são aspectos cada vez mais valorizados, surgem a necessidade de soluções inovadoras que atendam às demandas da sociedade de maneira prática e eficiente. Nesse contexto, o presente projeto aborda o desenvolvimento de um aplicativo de lavagem de carros doméstico, uma proposta que visa revolucionar o setor automotivo ao oferecer um serviço de limpeza veicular personalizado e acessível diretamente no conforto dos lares dos clientes.  
+A indústria automobilística tem desempenhado um papel significativo na vida cotidiana, proporcionando mobilidade e comodidade. No entanto, a manutenção e a limpeza dos veículos muitas vezes podem ser tarefas dispendiosas em termos de tempo e energia para os proprietários. É nesse contexto que a ideia de um aplicativo de lavagem de carros para domicílio surge como uma solução inovadora para essa aliviar a demanda, proporcionando um serviço de qualidade que se adapta à vida agitada dos clientes.
 
 ## Problema
 O problema central que o projeto visa resolver é a falta de praticidade e tempo disponível para os proprietários de veículos realizarem a lavagem de seus carros de maneira regular. As lavagens convencionais excluem que os proprietários se desloquem até um local específico, o que pode ser incômodo e incompatível com suas agendas ocupadas. Além disso, as restrições de água em algumas regiões e a preocupação com o meio ambiente também são fatores que exigem uma abordagem mais sustentável e eficiente na limpeza veicular.
