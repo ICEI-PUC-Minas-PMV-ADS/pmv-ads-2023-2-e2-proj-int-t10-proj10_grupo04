@@ -7,11 +7,11 @@
 
 ## Personas
 
-##1 ![Personas](img/persona1.jpg)
+![Personas](img/persona1.jpg)
 
 Mateus Machado tem 32 anos e é vendedor autônomo no ramo do comércio digital(e-comerce). Ele trabalha em seu escritório em casa e pensa em se tornar um grande varejista no seguimento de eletrônicos. Devido ao grande aumento em sua vendas, seu tempo ficou curto para cuidar do seu automóvel e necessita de uma solução prática e agil para seu problema pois não pode parar seu negócio por muito tempo nestwe momento e alta nas vendas.
 
-##2 ![Personas](img/persona2.jpg)
+![Personas](img/persona2.jpg)
 
 André Simão tem 28 anos, trabalha 10 horas por dia em um escritório de advocacia. Aos fins de semana gosta de ficar em casa e curtir suas series favoritas. Ele não possui conhecimento de produtos certos para limpeza do seu carro e prefere levar seu veículo em um lava jato, contudo, adoraria receber este serviço no conforto do seu lar para poder aproveitar ao máximo seu fim de semana.
 
