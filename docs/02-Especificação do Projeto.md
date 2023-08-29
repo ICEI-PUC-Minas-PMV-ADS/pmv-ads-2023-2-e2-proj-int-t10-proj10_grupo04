@@ -1,10 +1,9 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+ O projeto a ser desenvolvido basea-se em um problema cotidiano do publico alvo, pessoas que necessitam dos cuidados de limpeza automotiva.
+ Muitas vezes por falta de tempo ou até conhecimento necessessário para um bom cuidado com seu carro, as pessoas buscam um serviço de lava jato nas redondezas de sua residencia, mas nem sempre podem esperar pelo tempo de execução do serviço e também pela disponibilidade do profissional. Com estes dados em mente, pensamos em ofertar o serviço diretamente para nossos clientes, que, poderão agendar um horário/data para receber em seu domicílio uma visita especializada em lavagem automotiva de forma prática e rápida.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+ A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação do cotidiano das pessoas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
