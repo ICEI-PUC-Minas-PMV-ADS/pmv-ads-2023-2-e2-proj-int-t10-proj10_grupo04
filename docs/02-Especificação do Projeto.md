@@ -19,7 +19,7 @@ André Simão tem 28 anos, trabalha 10 horas por dia em um escritório de advoca
 
 Marina Santos tem 32 anos e é Gerente de Marketing: Marina é uma profissional ocupada que trabalha longas horas e geralmente tem pouco tempo livre durante uma semana. Ela valoriza muito a aparência do seu carro, mas a lavagem regular muitas vezes é adiada devido à sua agenda apertada. Marina procura conveniência em todos os aspectos de sua vida e está disposta a pagar por serviços que economizem seu tempo. Ela mora em um apartamento na área central da cidade e não possui garagem própria para fazer a limpeza do carro em casa. 
 
-![jovem-barbudo-com-camisa-listrada_273609-5677](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/125131708/ec2510bb-278b-4691-8f8e-8b943d9ba77a)
+![persona 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/125131708/dc0fd2e4-d9a6-4018-9ad3-ba8844a26bde)
 
 Pedro Oliveira tem 28 anos é Estudante Universitário. André é um estudante que vive em um bairro mais afastado do centro da cidade. Ele não possui um carro próprio, mas usa o carro da família para se locomover. Como seus pais trabalham durante uma semana, André muitas vezes tem a responsabilidade de cuidar da limpeza do carro da família. Ele está sempre em busca de maneiras econômicas e eficientes de tarefas, já que possui um orçamento limitado. 
 
