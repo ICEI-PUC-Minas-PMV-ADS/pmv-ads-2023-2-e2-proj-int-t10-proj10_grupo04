@@ -23,6 +23,10 @@ Marina Santos tem 32 anos e é Gerente de Marketing: Marina é uma profissional 
 
 Pedro Oliveira tem 28 anos é Estudante Universitário. André é um estudante que vive em um bairro mais afastado do centro da cidade. Ele não possui um carro próprio, mas usa o carro da família para se locomover. Como seus pais trabalham durante uma semana, André muitas vezes tem a responsabilidade de cuidar da limpeza do carro da família. Ele está sempre em busca de maneiras econômicas e eficientes de tarefas, já que possui um orçamento limitado. 
 
+![Persona 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/131534936/5e9c7d99-206a-4a05-934d-890e8a52f866)
+
+Carlos Diniz tem 65 anos, é aposentado, casado, tem dois filhos e quatro netos. Mora em uma capital e tem um sítio em uma cidade do interior. Ele e sua esposa adoram passar uns dias no sítio e fazem isso com muita frequência, em casa estão sempre recebendo a visita de seus filhos e netos. Carlos não gosta do trânsito da capital onde mora, por isso, evita ao máximo tirar o carro da garagem quando está em casa. Para ele seria ótimo receber o serviço de lavagem automotiva sem ter que se deslocar até um lava-jato.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
