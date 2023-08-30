@@ -13,9 +13,21 @@ O problema central que o projeto visa resolver é a falta de praticidade e tempo
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Desenvolver um aplicativo para que usuários de lava-jato possam agendar serviço de lavagem automotiva em domicílio. 
+
+Objetivos específicos 
+
+Identificar os horários e dias da semana em que há maior procura pelo serviço de lavagem automotiva 
+
+Pesquisar pelas preferencias dos usuários ao procurar um serviço de lava-jato 
+
+Estipular um tempo médio para a realização de cada serviço oferecido 
+
+Permitir ao usuário dar Feedback em relação a qualidade do serviço oferecido 
+
+Estimular o uso de práticas sustentáveis para a realização do serviço
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
