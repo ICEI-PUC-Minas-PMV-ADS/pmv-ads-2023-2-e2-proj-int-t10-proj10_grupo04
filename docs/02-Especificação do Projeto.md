@@ -15,7 +15,13 @@ Mateus Machado tem 32 anos e é vendedor autônomo no ramo do comércio digital(
 
 André Simão tem 28 anos, trabalha 10 horas por dia em um escritório de advocacia. Aos fins de semana gosta de ficar em casa e curtir suas series favoritas. Ele não possui conhecimento de produtos certos para limpeza do seu carro e prefere levar seu veículo em um lava jato, contudo, adoraria receber este serviço no conforto do seu lar para poder aproveitar ao máximo seu fim de semana.
 
+![1053f9de9072a5802c77972ed5031d0c](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/125131708/baf7c516-b0d6-4832-81ca-eebdaf1ed487)
 
+Marina Santos tem 32 anos e é Gerente de Marketing: Marina é uma profissional ocupada que trabalha longas horas e geralmente tem pouco tempo livre durante uma semana. Ela valoriza muito a aparência do seu carro, mas a lavagem regular muitas vezes é adiada devido à sua agenda apertada. Marina procura conveniência em todos os aspectos de sua vida e está disposta a pagar por serviços que economizem seu tempo. Ela mora em um apartamento na área central da cidade e não possui garagem própria para fazer a limpeza do carro em casa. 
+
+![Persona](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/125131708/e0f841a4-0788-4e9e-95fb-cab8a528c198)
+
+Pedro Oliveira tem 28 anos é Estudante Universitário. André é um estudante que vive em um bairro mais afastado do centro da cidade. Ele não possui um carro próprio, mas usa o carro da família para se locomover. Como seus pais trabalham durante uma semana, André muitas vezes tem a responsabilidade de cuidar da limpeza do carro da família. Ele está sempre em busca de maneiras econômicas e eficientes de tarefas, já que possui um orçamento limitado. 
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
@@ -40,6 +46,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Mateus Machado      | Alterar Agendamento                | Permitir alterar horário da visita                |
 |André Simão         | Ver valor do serviço               | Decidir se pode solicitar o serviço agora         |
 |André Simão         | Ver agenda disponível              | Escolher o melhor horário para um fim de semana   |
+|Marina Santos       | Poupar tempo e esforço             | Evitar a necessidade de procurar uma lavagem de carro tradicional|
+|Marina Santos       | Contatar profissionais confiáveis  | Que respeitem sua propriedade e entreguem um serviço de alta qualidade|
+|Pedro Oliveira      | Garantia na lavagem                | Lavagem seja feita com produtos de limpeza que não causem danos ao carro e ao meio ambiente| 
+|Pedro Oliveira      | Preço Justo                        | Encontre uma solução de limpeza de carros acessível e conveniente|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
