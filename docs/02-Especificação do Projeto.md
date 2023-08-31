@@ -27,6 +27,9 @@ Pedro Oliveira tem 28 anos é Estudante Universitário. André é um estudante q
 
 Carlos Diniz tem 65 anos, é aposentado, casado, tem dois filhos e quatro netos. Mora em uma capital e tem um sítio em uma cidade do interior. Ele e sua esposa adoram passar uns dias no sítio e fazem isso com muita frequência, em casa estão sempre recebendo a visita de seus filhos e netos. Carlos não gosta do trânsito da capital onde mora, por isso, evita ao máximo tirar o carro da garagem quando está em casa. Para ele seria ótimo receber o serviço de lavagem automotiva sem ter que se deslocar até um lava-jato.
 
+![Persona 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/131534936/d9056e28-7062-4f5e-bc00-5051ed7f2119)
+
+Marcela Rangel tem 25 anos, é chef de cozinha em um restaurante. Em seu trabalho ela sempre procura fornecedores de alimentos locais que usam de métodos sustentáveis na produção. Ela faz isso para incentivar a economia sustentável em sua região e não se restringe apenas ao seu trabalho. Marcela esta sempre procurando novos produtos e serviços que compartilham dessa ideia.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
