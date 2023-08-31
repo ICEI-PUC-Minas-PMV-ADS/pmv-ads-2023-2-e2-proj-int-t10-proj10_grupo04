@@ -3,7 +3,7 @@
  O projeto a ser desenvolvido basea-se em um problema cotidiano do publico alvo, pessoas que necessitam dos cuidados de limpeza automotiva.
  Muitas vezes por falta de tempo ou até conhecimento necessessário para um bom cuidado com seu carro, as pessoas buscam um serviço de lava jato nas redondezas de sua residencia, mas nem sempre podem esperar pelo tempo de execução do serviço e também pela disponibilidade do profissional. Com estes dados em mente, pensamos em ofertar o serviço diretamente para nossos clientes, que, poderão agendar um horário/data para receber em seu domicílio uma visita especializada em lavagem automotiva de forma prática e rápida.
 
- A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação do cotidiano das pessoas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+ A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada em um trabalho de imersão feita pelos membros da equipe a partir da observação do cotidiano das pessoas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
