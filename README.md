@@ -17,7 +17,7 @@ A proposta desta aplicação interativa é fornecer aos usuários uma plataforma
 
 ## Orientador
 
-* Daniela Carvalho Monteiro Ferreira 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 
