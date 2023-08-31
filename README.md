@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# LAVA JATO A DOMICÍLIO
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO - DESENVOLVIMENTO DE UMA APLICAÇÃO INTERATIVA`
 
-`SEMESTRE`
+`2º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A proposta desta aplicação interativa é fornecer aos usuários uma plataforma fácil e intuitiva, a fim de realizar um projeto de lava a jato e limpeza de estofados a domicílio. Assim se aderindo ao dia a dia corrido do usuário separando e agendando os melhores dias para a visita e realização do trabalho.
 
 ## Integrantes
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira 1
 
 ## Instruções de utilização
 
