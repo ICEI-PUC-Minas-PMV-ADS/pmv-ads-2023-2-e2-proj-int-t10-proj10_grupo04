@@ -34,7 +34,10 @@ O Teams será usado para videoconferências das reuniões de planejamento do spr
 
 A documentação do projeto ficará hospedada no Github, em razão da facilidade de acesso por parte dos integrantes da equipe. Nos casos em que houver necessidade de documentos mais elaborados (apresentações, planilhas, etc), será utilizado o Office 365, com hospedagem no Sharepoint. Da mesma forma serão utilizadas as ferramentas de gerenciamento de projeto da plataforma, bem como a mesma também servirá de repositório para o código fonte, em razaão de suas funcionalidades de controle de versão.
 
-Para edição de código, foi escolhida a ferramenta Visual Studio Code por: 1) Ser gratuita e opensource; 2) Ser amplamente  utilizada; 3) Possuir um extenso marketplace de addins que possibilitam expandir suas funções, inclusive integrando com o sistema de controle de versões.
+Para edição de código, foi escolhida a ferramenta Visual Studio Code por: 
+1) Ser gratuita e opensource;
+2) Ser amplamente  utilizada;
+3) Possuir um extenso marketplace de addins que possibilitam expandir suas funções, inclusive integrando com o sistema de controle de versões.
 
 ### Processo
 
