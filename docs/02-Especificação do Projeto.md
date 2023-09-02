@@ -134,9 +134,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Segurança de Dados | ALTA |
 |RNF-004| Tempo de resposta rápido | MÉDIA | 
 |RNF-005| Compatibilidade com Diferentes Dispositivos | MÉDIA | 
-|RNF-006|  | ALTA |
-|RNF-004| Tempo de resposta rápido | MÉDIA | 
-|RNF-005| Compatibilidade com Diferentes Dispositivos | MÉDIA | 
+|RNF-006| Assegurar que o aplicativo esteja disponível e funcional 24h por dia  | ALTA |
+|RNF-004| Garantir que o aplicativo seja intuitivo e fácil de usar | MÉDIA | 
+|RNF-005| Projetar o aplicativo para suportar o aumento no número de clientes e prestadores de serviço | ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
