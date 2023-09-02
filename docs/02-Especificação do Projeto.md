@@ -94,6 +94,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Marina Santos       | Contatar profissionais confiáveis  | Que respeitem sua propriedade e entreguem um serviço de alta qualidade|
 |Pedro Oliveira      | Garantia na lavagem                | Lavagem seja feita com produtos de limpeza que não causem danos ao carro e ao meio ambiente| 
 |Pedro Oliveira      | Preço Justo                        | Encontre uma solução de limpeza de carros acessível e conveniente|
+|Marcela Rangel      | Serviço local                      | Estimular a econoia local de sua região| 
+|Marcela Rangel      | Sustentabilidade                   | Encontrar profissionais que usem práticas e produtos sustentáveis|
+|Carlos Diniz        | Praticidade                        | Receber o serviço a domicílio| 
+|Carlos Diniz        | Opções de lavagem                  | Poder escolher o tipo de lavagem que melhor atenderá suas necessidades|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
