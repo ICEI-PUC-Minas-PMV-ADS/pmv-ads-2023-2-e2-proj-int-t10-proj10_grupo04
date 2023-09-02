@@ -115,6 +115,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Avaliações e Feedback                   | MÉDIA |
 |RF-007| Pagamento online                        | MÉDIA |
 |RF-008| Notificações e lembretes                | BAIXA |
+|RF-009| Formulário de entrada de dados precisa ter validação dos campos                | MÉDIA |
+|RF-010| O pagamento on-line usará um sistema externo fornecido via API                | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -126,8 +128,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| Tempo de resposta rápido | MÉDIA | 
 |RNF-005| Compatibilidade com Diferentes Dispositivos | MÉDIA | 
 |RNF-006| Assegurar que o aplicativo esteja disponível e funcional 24h por dia  | ALTA |
-|RNF-004| Garantir que o aplicativo seja intuitivo e fácil de usar | MÉDIA | 
-|RNF-005| Projetar o aplicativo para suportar o aumento no número de clientes e prestadores de serviço | ALTA | 
+|RNF-007| Garantir que o aplicativo seja intuitivo e fácil de usar | MÉDIA | 
+|RNF-008| Projetar o aplicativo para suportar o aumento no número de clientes e prestadores de serviço | ALTA | 
+|RNF-009| Não deve permitir que um mesmo usuário se cadastre duas vezes, validar por documento ou e-mail | ALTA | 
+|RNF-010| Estar de acordo com a Lei Geral de Proteção de Dados Pessoais | ALTA | 
+
 
 ## Restrições
 
