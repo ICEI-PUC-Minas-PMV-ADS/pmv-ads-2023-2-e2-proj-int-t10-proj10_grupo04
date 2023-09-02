@@ -117,10 +117,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Agendamento de Serviços                 | MÉDIA |
-|RF-004| Rastreamento em Tempo Real              | MÉDIA |
-|RF-005| Avaliações e Feedback                   | MÉDIA |
+|RF-002| Cálculo de preço                        | ALTA |
+|RF-003| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-004| Agendamento de Serviços                 | MÉDIA |
+|RF-005| Rastreamento em Tempo Real              | MÉDIA |
+|RF-006| Avaliações e Feedback                   | MÉDIA |
+|RF-007| Pagamento online                        | MÉDIA |
+|RF-008| Notificações e lembretes                | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -129,6 +132,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Segurança de Dados | ALTA |
+|RNF-004| Tempo de resposta rápido | MÉDIA | 
+|RNF-005| Compatibilidade com Diferentes Dispositivos | MÉDIA | 
+|RNF-006|  | ALTA |
 |RNF-004| Tempo de resposta rápido | MÉDIA | 
 |RNF-005| Compatibilidade com Diferentes Dispositivos | MÉDIA | 
 
