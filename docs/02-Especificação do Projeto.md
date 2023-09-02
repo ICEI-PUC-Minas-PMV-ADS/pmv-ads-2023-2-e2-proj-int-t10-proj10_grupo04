@@ -67,8 +67,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Avaliações e Feedback                   | MÉDIA |
 |RF-007| Pagamento online                        | MÉDIA |
 |RF-008| Notificações e lembretes                | BAIXA |
-|RF-009| Formulário de entrada de dados precisa ter validação dos campos                | MÉDIA |
+|RF-009| Formulário de entrada de dados precisa ter validação dos campos               | MÉDIA |
 |RF-010| O pagamento on-line usará um sistema externo fornecido via API                | BAIXA |
+|RF-011| Permitir cadastro de usuário            | ALTA  |
+|RF-012| Permitir contato pelo site via formulário ou similar | Média  |
+|RF-011| Permitir cancelar o agendamento. Máximo 6 horas antes do horário marcado.     | ALTA  |
 
 ### Requisitos não Funcionais
 
@@ -84,6 +87,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-008| Projetar o aplicativo para suportar o aumento no número de clientes e prestadores de serviço | ALTA | 
 |RNF-009| Não deve permitir que um mesmo usuário se cadastre duas vezes, validar por documento ou e-mail | ALTA | 
 |RNF-010| Estar de acordo com a Lei Geral de Proteção de Dados Pessoais | ALTA | 
+|RNF-011| Utilizar fontes de letras harmônicas | BAIXA | 
+|RNF-012| Utilizar cor de background que permita um bom contraste com as letras(preferência cor fria) | MÉDIA | 
+|RNF-013| Aplicar um bom uso de cores para uma boa harmonização do site, buscando realçar os pontos mais importantes. | MÉDIA |
+
 
 
 ## Restrições
@@ -96,6 +103,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Será desenvolvido só para plataforma web              |
 |03| Restrição de Localização de Atendimento Inicial       |
 |04| A equipe de desenvolvimento não pode ter mais de 6 integrantes       |
+|05| O projeto deve ser desenvolvido sem misturar muitas linguagens de programação, facilitando o entendimento de todos da equipe   |
 
 
 ## Diagrama de Casos de Uso
