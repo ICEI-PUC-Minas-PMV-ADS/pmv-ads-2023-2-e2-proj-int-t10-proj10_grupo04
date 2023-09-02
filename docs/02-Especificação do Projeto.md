@@ -5,42 +5,6 @@
 
  A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada em um trabalho de imersão feita pelos membros da equipe a partir da observação do cotidiano das pessoas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
-## Público-Alvo
-
-Nossa plataforma é desenvolvida para atender às necessidades dos residentes e empresas de Belo Horizonte e arredores. Nossa missão é proporcionar a você, proprietário de veículo, uma experiência de limpeza automotiva inovadora e conveniente que se adapte perfeitamente ao seu estilo de vida agitado.
-
-Sabemos que em uma cidade dinâmica como Belo Horizonte, o tempo é um recurso precioso. É por isso que criamos um serviço sob medida, pronto para atender às suas demandas de limpeza veicular de forma eficiente e eficaz, sem que você precise se deslocar até um lava-jato físico. Seja qual for o modelo do seu carro, sua agenda lotada ou o tipo de sujeira que precisa ser removida, estamos aqui para proporcionar a você um veículo impecável, enquanto você se concentra em suas atividades diárias.
-
-Nossos serviços são projetados para atender a uma ampla gama de clientes, desde os que procuram uma limpeza rápida e prática até aqueles que valorizam um tratamento de alta qualidade e atenção aos detalhes. Não importa se você é um apaixonado por carros que deseja manter seu veículo imaculado ou um gestor de frota empresarial que busca uma solução eficaz de manutenção automotiva.
-
-### Localização Geográfica:
-
-Residentes e empresas localizadas em Belo Horizonte e áreas circundantes.
-
-### Faixa Etária:
-
-Adultos jovens a idosos, pois pessoas de diversas idades podem possuir veículos.
-
-### Gênero:
-
-Ambos os sexos, uma vez que tanto homens quanto mulheres dirigem carros.
-
-### Nível Socioeconômico:
-
-Classes média e média-alta, pois são mais propensas a possuir veículos e a utilizar serviços de conveniência.
-
-### Proprietários de Veículos:
-
-Proprietários de carros, motocicletas e possivelmente veículos utilitários (para atender a empresas).
-### Comportamento de Consumo:
-
-Pessoas ocupadas ou com pouco tempo disponível, que valorizam a conveniência de ter o carro limpo sem precisar ir até um lava-jato físico.
-Clientes que buscam um serviço de qualidade e confiável.
-Segmentação Adicional:
-
-Proprietários de veículos de maior valor, que podem estar dispostos a gastar mais com serviços de limpeza de alta qualidade.
-Empresas e frotas de veículos que buscam soluções de limpeza convenientes para suas operações.
-
 ## Personas
 
 ![Personas](img/persona1.jpg)
