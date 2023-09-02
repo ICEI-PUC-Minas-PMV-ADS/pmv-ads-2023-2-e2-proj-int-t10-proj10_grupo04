@@ -107,5 +107,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Diagrama de Casos de Uso
-![Diagrama de casos de Uso](img/casosdeuso.jpg)
 
