@@ -6,11 +6,6 @@ A indústria automobilística tem desempenhado um papel significativo na vida co
 ## Problema
 O problema central que o projeto visa resolver é a falta de praticidade e tempo disponível para os proprietários de veículos realizarem a lavagem de seus carros de maneira regular. As lavagens convencionais excluem que os proprietários se desloquem até um local específico, o que pode ser incômodo e incompatível com suas agendas ocupadas. Além disso, as restrições de água em algumas regiões e a preocupação com o meio ambiente também são fatores que exigem uma abordagem mais sustentável e eficiente na limpeza veicular.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Objetivo Geral
@@ -30,9 +25,6 @@ Objetivos específicos
   Permitir ao usuário dar Feedback em relação a qualidade do serviço
 
   Estimular o uso de práticas sustentáveis para a realização do serviço
-  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -54,18 +46,38 @@ Objetivos específicos
 
 Ao estabelecer esses objetivos de maneira clara e precisa, o projeto do aplicativo de lavagem de carros em domicílio terá uma direção sólida e será capaz de medir seu sucesso com base na realização desses objetivos ao longo do tempo. .
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Nossa plataforma é desenvolvida para atender às necessidades dos residentes e empresas de Belo Horizonte e arredores. Nossa missão é proporcionar a você, proprietário de veículo, uma experiência de limpeza automotiva inovadora e conveniente que se adapte perfeitamente ao seu estilo de vida agitado.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Sabemos que em uma cidade dinâmica como Belo Horizonte, o tempo é um recurso precioso. É por isso que criamos um serviço sob medida, pronto para atender às suas demandas de limpeza veicular de forma eficiente e eficaz, sem que você precise se deslocar até um lava-jato físico. Seja qual for o modelo do seu carro, sua agenda lotada ou o tipo de sujeira que precisa ser removida, estamos aqui para proporcionar a você um veículo impecável, enquanto você se concentra em suas atividades diárias.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Nossos serviços são projetados para atender a uma ampla gama de clientes, desde os que procuram uma limpeza rápida e prática até aqueles que valorizam um tratamento de alta qualidade e atenção aos detalhes. Não importa se você é um apaixonado por carros que deseja manter seu veículo imaculado ou um gestor de frota empresarial que busca uma solução eficaz de manutenção automotiva.
+
+### Localização Geográfica:
+
+Residentes e empresas localizadas em Belo Horizonte e áreas circundantes.
+
+### Faixa Etária:
+
+Adultos jovens a idosos, pois pessoas de diversas idades podem possuir veículos.
+
+### Gênero:
+
+Ambos os sexos, uma vez que tanto homens quanto mulheres dirigem carros.
+
+### Nível Socioeconômico:
+
+Classes média e média-alta, pois são mais propensas a possuir veículos e a utilizar serviços de conveniência.
+
+### Proprietários de Veículos:
+
+Proprietários de carros, motocicletas e possivelmente veículos utilitários (para atender a empresas).
+### Comportamento de Consumo:
+
+Pessoas ocupadas ou com pouco tempo disponível, que valorizam a conveniência de ter o carro limpo sem precisar ir até um lava-jato físico.
+Clientes que buscam um serviço de qualidade e confiável.
+Segmentação Adicional:
+
+Proprietários de veículos de maior valor, que podem estar dispostos a gastar mais com serviços de limpeza de alta qualidade.
+Empresas e frotas de veículos que buscam soluções de limpeza convenientes para suas operações.
