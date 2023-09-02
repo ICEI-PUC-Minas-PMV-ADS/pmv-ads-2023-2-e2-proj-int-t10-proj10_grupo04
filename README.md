@@ -9,9 +9,12 @@
 A proposta desta aplicação interativa é fornecer aos usuários uma plataforma fácil e intuitiva, a fim de realizar um projeto de lava a jato e limpeza de estofados a domicílio. Assim se aderindo ao dia a dia corrido do usuário separando e agendando os melhores dias para a visita e realização do trabalho.
 
 ## Integrantes
-
+* Lucas Marinho Ribeiro Guimarães
+* Lucas Ribeiro Veiga Cruz
+* Patrick Cardoso Campos
+* Marlon Sttefane Guimares Silva
 * Thiago Souza Dias
-
+* Thiago Luiz
 ## Orientador
 
 * Daniela Carvalho Monteiro Ferreira
