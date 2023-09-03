@@ -12,8 +12,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipa está organizada da seguinte maneira:
 - `Scrum Master`: Lucas Marinho Ribeiro Guimarães
 - `Product Owner`: Thiago Souza Dias
-- `Equipe de Desenvolvimento`: Lucas Ribeiro Veiga Cruz, Patrick Cardoso Campos, Marlon Sttefane Guimares Silva
-- `Equipe de Design`: Thiago Luiz
+- `Equipe de Desenvolvimento`: Lucas Ribeiro Veiga Cruz, Patrick Cardoso Campos, Marlon Sttefane Guimares Silva, Thiago Luiz, Thiago Souza Dias, Lucas Marinho Ribeiro Guimarães
+- `Equipe de Design`: Lucas Ribeiro Veiga Cruz, Patrick Cardoso Campos, Marlon Sttefane Guimares Silva, Thiago Luiz, Thiago Souza Dias, Lucas Marinho Ribeiro Guimarães
  
 ### Ferramentas
 
