@@ -10,10 +10,10 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 ### Divisão de Papéis
 
 A equipa está organizada da seguinte maneira:
-- `Scrum Master`: 
-- `Product Owner`: 
-- `Equipe de Desenvolvimento`: 
-- `Equipe de Design`: 
+- `Scrum Master`: Lucas Marinho Ribeiro Guimarães
+- `Product Owner`: Thiago Souza Dias
+- `Equipe de Desenvolvimento`: Lucas Ribeiro Veiga Cruz, Patrick Cardoso Campos, Marlon Sttefane Guimares Silva
+- `Equipe de Design`: Thiago Luiz
  
 ### Ferramentas
 
