@@ -108,4 +108,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![caso de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/81435143/61b3b25c-7bb5-4dfb-ac35-d354835cc1d8)
+![caso de uso](img/UseCase Diagram0.jpg)
