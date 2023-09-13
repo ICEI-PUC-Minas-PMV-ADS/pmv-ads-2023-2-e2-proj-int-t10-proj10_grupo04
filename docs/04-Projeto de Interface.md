@@ -7,6 +7,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
+## Diagrama de Classe
+
+O diagrama de classes é uma representação visual essencial do nosso projeto de aplicativo de lava-jato. Esse diagrama descreve as principais entidades e objetos do sistema, bem como os relacionamentos entre eles, fornece um mapa claro da estrutura do nosso aplicativo.
+![Class Diagram0](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/125131708/a65b64e8-238e-4fde-8299-833a6565cdfc)
+
 ## Diagrama de Fluxo
 
 O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o sistema interativo.
