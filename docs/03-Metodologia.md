@@ -51,7 +51,7 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 
 #### Backlog em 19/09/2023:
 
-<img src="img/project-backlogs.png">
+[<img src="img/project-backlogs.png">](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/541)
 
 ## Controle de Versão
 
