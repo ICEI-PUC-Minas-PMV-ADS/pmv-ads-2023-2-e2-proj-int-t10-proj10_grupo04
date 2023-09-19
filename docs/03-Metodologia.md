@@ -49,6 +49,10 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 - `Review`: Lista das tarefas concluidas que passarão pelo processo de teste e controle de qualidade.
 - `Done`: Nesta lista são colocadas as tarefas finalizadas e aprovadas.
 
+#### Backlog em 19/09/2023:
+
+<img src="img/project-backlogs.png">
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
