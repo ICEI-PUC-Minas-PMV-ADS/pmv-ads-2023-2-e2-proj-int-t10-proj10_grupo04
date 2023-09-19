@@ -23,7 +23,7 @@ As ferramentas empregadas no projeto são:
 |:----|:---|:-----|
 | Comunicação | Teams <br> Whatsapp | https://teams.microsoft.com/ <br> https://www.whatsapp.com/ |
 | Documentos do Projeto | Github <br> Sharepoint | https://github.com/ <br> https://sgapucminasbr.sharepoint.com/ |
-| Editor de código | Visual Studio Code | https://code.visualstudio.com |
+| Editor de código | Visual Studio Code <br> Visual Studio | https://code.visualstudio.com <br> https://visualstudio.microsoft.com/pt-br/ |
 | Gerenciamento do Projeto | Github | [https://github.com/](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/541) |
 | Pesquisa | Formulários do Google | https://drive.google.com/ |
 | Projeto de Interface e Wireframe | Figma | https://www.figma.com/ |
@@ -42,11 +42,11 @@ Para edição de código, foi escolhida a ferramenta Visual Studio por:
 ### Processo
 
 Para a organização e distribuição das tarefas do projeto, o grupo esta utilizando o GitHub, seguindo os critérios de:
-- `Product Backlog`: Recebe as tarefas a serem trabalhadas e apresenta o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+- `Backlog`: Recebe as tarefas a serem trabalhadas e apresenta o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
   Link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/541
 - `To Do`: Esta lista representa o Sprint Backlog que está sendo trabalhado.
 - `In progress`: Lista das tarefas iniciadas.
-- `Testing`: Lista das tarefas concluidas que passarão pelo processo de teste e controle de qualidade.
+- `Review`: Lista das tarefas concluidas que passarão pelo processo de teste e controle de qualidade.
 - `Done`: Nesta lista são colocadas as tarefas finalizadas e aprovadas.
 
 ## Controle de Versão
