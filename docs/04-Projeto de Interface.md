@@ -21,5 +21,5 @@ O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o s
 ## Wireframes
 Protótipos usado em design de interface para sugerir a estrutura de uma aplicação web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface. O wireframe desta aplicação interativa é apresentado abaixo:
 
-![Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/81435143/670f12c0-57bc-44ac-8034-37a15500a8a6)
 
+![wireframenovo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-proj10_grupo04/assets/81435143/7317de83-4621-43eb-99c2-409dea15d539)
