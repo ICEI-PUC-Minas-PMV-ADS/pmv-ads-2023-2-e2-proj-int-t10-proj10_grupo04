@@ -27,11 +27,9 @@ O plano de teste de software proposto para avaliação dos requisitos funcionais
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://www.lavajatoadomicilio.com/src/index.html <br> - Após login e modelo escolhido para agendamento. <br> - Na tela de pagamento, confirmar valor, data, hora, endereço registrado e formas de pagamentos <br> - Em seguida pegar recibo de pagamento e agendamento e voltar para menu inicial. |
 |Critério de Êxito | - Formas de pagamentos e registro averiguado. |
 |  	|  	|
+| Caso de Teste 	| CT-05 – Realizar avaliação do trabalho	|
+|Requisito Associado | RF-005	- A aplicação irá permitir o usuário avaliar e comentar sobre o serviço prestado |
+| Objetivo do Teste 	| Usuário irá comentar e avaliar o serviço. |
+| Passos 	| - Após serviço feito com o cliente com data marcada e registro gerado irá para tela de avaliação <br> - Ir em perfil, meus agendamentos <br> - Clicar em "avaliar" <br> - Marcar numero de estrelas e deixar comentário <br> - Conferir registro da avaliação <br> |
+|Critério de Êxito | - Avaliação e comentário registrado. |
 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
