@@ -2,10 +2,10 @@
 
 Objetivos dos testes de usabilidade:
 
-Analisar o uso da aplicação desenvolvida
-Identificar problemas de usabilidade e propor soluções
-Analisar se o software atende às necessidades dos usuários
-Melhorar a experiência do usuário com o software
+- Analisar o uso da aplicação desenvolvida.
+- Identificar problemas de usabilidade e propor soluções para garantir maior facilidade de uso do sistema.
+- Analisar se o software atende às necessidades dos usuários.
+- Melhorar a experiência do usuário com o software.
 
 Estratégia de teste:
  
