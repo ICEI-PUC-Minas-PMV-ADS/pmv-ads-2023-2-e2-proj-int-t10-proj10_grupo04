@@ -1,13 +1,39 @@
 # Plano de Testes de Usabilidade
 
-Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
+Objetivos dos testes de usabilidade:
 
-Um plano de teste de usabilidade deverá conter: o detalhamento dos objetivos (em função dos requisitos levantados/implementados), dos critérios que serão utilizados para a seleção dos participantes, dos procedimentos a serem adotados pelos condutores de teste (por exemplo: os testes serão presenciais ou remotos? o método será observação direta, medição ou avaliação?), das tarefas a serem executadas, dos dados a serem coletados (quantidade de cliques, número de erros, tempo etc.), a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
+Analisar o uso da aplicação desenvolvida
+Identificar problemas de usabilidade e propor soluções
+Analisar se o software atende às necessidades dos usuários
+Melhorar a experiência do usuário com o software
 
-Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
+Estratégia de teste:
+ 
+ Realizar testes com usuários reais para avaliar a usabilidade da aplicação Lava Jato a Domicílio através do navegador.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+Plano de teste:
 
+Selecionar um grupo de usuários semelhantes ao público-alvo do LAVA JATO A DOMICÍLIO.
+Os usuários terão que realizar uma lista de tarefas específicas visando pro a prova a execução corretas de diversos campos da aplicação.
+Após os testes, iremos coletar o feedback sobre execução da aplicação.
+
+Ferramentas de teste:
+
+Google chrome, Internet Explorer e/ou Mozilla Firefox.
+
+Responsabilidades:
+
+Equipe de teste: Responsável por selecionar e preparar candidatos e conduzir os testes a serem executados.
+Equipe de desenvolvimento: Através dos dados coletados devem estudar soluçoes que sejam aptas para a melhoria do uso do sistema e sua plena execução.
+
+Critérios de aceitação:
+
+Os usuários tem que possuir alguma caracteristicas do publico-alvo para serem considerados válidos.
+Os usuários devem realizar a lista de tarefas designadas a eles.
+Os usuários devem ser capazes de realizar as tarefas propostas com facilidade e sem ajuda externa.
+Os usuários devem fornecer feedback sobre a usabilidade do software após os testes.
+ Tabela de plano de testes, construindo...:
+ 
 > **Links Úteis**:
 > - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
 > - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
