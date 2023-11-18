@@ -1,13 +1,13 @@
-﻿using LavaADomicilio.API.Entities;
+﻿using LavaADomicilio.API.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace LavaADomicilio.API.Persistence
+namespace LavaADomicilio.API.Domain.Persistence
 {
-    public class AgendamentoLavagemDbContext :  DbContext
+    public class AgendamentoLavagemDbContext : DbContext
     {
         public AgendamentoLavagemDbContext(DbContextOptions<AgendamentoLavagemDbContext> options) : base(options)
         {
-            
+
         }
 
         public DbSet<AgendamentoLavagem> AgendamentoLavagems { get; set; }

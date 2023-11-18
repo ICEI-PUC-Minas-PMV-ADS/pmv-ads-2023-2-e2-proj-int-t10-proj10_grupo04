@@ -1,7 +1,6 @@
-﻿using LavaADomicilio.API.Models;
-using System.Numerics;
+﻿using LavaADomicilio.API.Api.Models;
 
-namespace LavaADomicilio.API.Entities
+namespace LavaADomicilio.API.Domain.Entities
 {
     public class AgendamentoLavagem
     {
@@ -20,7 +19,7 @@ namespace LavaADomicilio.API.Entities
         public string CvcCartao { get; set; }
         public string NumeroParcelasCartao { get; set; }
         public DateTime Data { get; set; }
-        public Boolean IsDeleted { get; set; }
+        public bool IsDeleted { get; set; }
 
         public void Update(AgendamentoLavagemInput input)
         {

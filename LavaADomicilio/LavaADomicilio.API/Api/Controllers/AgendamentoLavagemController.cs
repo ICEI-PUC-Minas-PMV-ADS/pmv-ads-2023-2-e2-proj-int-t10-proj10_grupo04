@@ -1,11 +1,11 @@
-﻿using LavaADomicilio.API.Entities;
-using LavaADomicilio.API.Models;
-using LavaADomicilio.API.Persistence;
+﻿using LavaADomicilio.API.Api.Models;
+using LavaADomicilio.API.Domain.Entities;
+using LavaADomicilio.API.Domain.Persistence;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace LavaADomicilio.API.Controllers
+namespace LavaADomicilio.API.Api.Controllers
 {
     [Route("api/agendamento-lavagem")]
     [ApiController]
@@ -32,7 +32,7 @@ namespace LavaADomicilio.API.Controllers
         {
             var agendamentoLavagem = _context.AgendamentoLavagems.SingleOrDefault(d => d.Id == id);
 
-            if(agendamentoLavagem == null)
+            if (agendamentoLavagem == null)
             {
                 return NotFound();
             }
@@ -53,7 +53,7 @@ namespace LavaADomicilio.API.Controllers
             _context.AgendamentoLavagems.Add(agendamentoLavagem);
             _context.SaveChanges();
 
-            return CreatedAtAction(nameof(GetById), new {id= agendamentoLavagem .Id}, agendamentoLavagem);
+            return CreatedAtAction(nameof(GetById), new { id = agendamentoLavagem.Id }, agendamentoLavagem);
         }
 
         [HttpPut("{id}")]

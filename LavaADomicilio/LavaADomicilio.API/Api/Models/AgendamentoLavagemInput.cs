@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace LavaADomicilio.API.Models
+namespace LavaADomicilio.API.Api.Models
 {
     public class AgendamentoLavagemInput
     {
