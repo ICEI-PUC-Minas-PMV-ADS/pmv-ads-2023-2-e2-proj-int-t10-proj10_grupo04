@@ -12,10 +12,12 @@ namespace LavaADomicilio.API.Api.Controllers
     public class AgendamentoLavagemController : ControllerBase
     {
         private readonly AgendamentoLavagemService _service;
+        private readonly FuncionarioService _funcionarioService;
 
-        public AgendamentoLavagemController(AgendamentoLavagemService service)
+        public AgendamentoLavagemController(AgendamentoLavagemService service, FuncionarioService funcionarioService)
         {
             _service = service;
+            _funcionarioService = funcionarioService;
         }
 
 
@@ -74,6 +76,29 @@ namespace LavaADomicilio.API.Api.Controllers
 
             agendamentoLavagem.Update(input);
 
+            _service.Update(agendamentoLavagem);
+
+            return NoContent();
+        }
+
+        [HttpPost("{id}/adicionar-funcionario")]
+        public IActionResult AddFuncionario(Guid id, Guid idFuncionario)
+        {
+            var agendamentoLavagem = _service.FindById(id);
+
+            if (agendamentoLavagem == null)
+            {
+                return NotFound();
+            }
+
+            var funcionario = _funcionarioService.FindById(idFuncionario);
+
+            if (funcionario == null)
+            {
+                return NotFound("Funcionário não encontrado");
+            }
+
+            agendamentoLavagem.AddFuncionario(funcionario);
             _service.Update(agendamentoLavagem);
 
             return NoContent();

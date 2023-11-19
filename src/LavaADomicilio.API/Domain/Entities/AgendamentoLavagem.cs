@@ -7,7 +7,9 @@ namespace LavaADomicilio.API.Domain.Entities
         public Guid Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
-        public string TipoDeLavagem { get; set; }
+
+        public Funcionario Funcionario { get; set; }
+        public TipoDeLavagem TipoDeLavagem { get; set; }
         public string Telefone { get; set; }
         public string Logradouro { get; set; }
         public int Numero { get; set; }
@@ -39,10 +41,16 @@ namespace LavaADomicilio.API.Domain.Entities
             Data = input.Data;
         }
 
+        public void AddFuncionario(Funcionario funcionario)
+        {
+            Funcionario = funcionario;
+        }
+
         public void Delete()
         {
             IsDeleted = true;
         }
 
+       
     }
 }
