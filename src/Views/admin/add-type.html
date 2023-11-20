@@ -39,58 +39,52 @@
     </header>
 
     <div class="container mt-5">
-        <h2>Lista de Funcionários</h2>
+        <h2>Tipos de Lavagem</h2>
         <ul class="list-group">
-            <!-- Empregado 1 -->
+            <!-- Tipo de Lavagem 1 -->
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <div>
-                    <strong>Nome do Funcionário 1</strong>
-                    <p>Telefone: (123) 456-7890</p>
-                    <p>WhatsApp: (123) 456-7890</p>
+                    <strong>Lavagem Padrão</strong>
+                    <p>Preço: R$ 20,00</p>
                 </div>
                 <button type="button" class="btn btn-danger">Remover</button>
             </li>
-            <!-- Empregado 2 -->
+            <!-- Tipo de Lavagem 2 -->
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <div>
-                    <strong>Nome do Funcionário 2</strong>
-                    <p>Telefone: (123) 456-7890</p>
-                    <p>WhatsApp: (123) 456-7890</p>
+                    <strong>Lavagem Premium</strong>
+                    <p>Preço: R$ 30,00</p>
                 </div>
                 <button type="button" class="btn btn-danger">Remover</button>
             </li>
-            <!-- Adicionar novo funcionário -->
+            <!-- Adicionar novo tipo de lavagem -->
             <li class="list-group-item">
-                <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEmployeeModal">
-                    Adicionar Novo Funcionário
+                <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addTypeModal">
+                    Adicionar Novo Tipo de Lavagem
                 </button>
             </li>
         </ul>
     </div>
 
-    <!-- Modal para adicionar novo funcionário -->
-    <div class="modal fade" id="addEmployeeModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <!-- Modal para adicionar novo tipo de lavagem -->
+    <div class="modal fade" id="addTypeModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Adicionar Novo Funcionário</h5>
+                    <h5 class="modal-title" id="exampleModalLabel">Adicionar Novo Tipo de Lavagem</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <form>
                         <div class="mb-3">
-                            <label for="employeeName" class="form-label">Nome do Funcionário:</label>
-                            <input type="text" class="form-control" id="employeeName" required>
+                            <label for="washTypeName" class="form-label">Nome do Tipo de Lavagem:</label>
+                            <input type="text" class="form-control" id="washTypeName" required>
                         </div>
                         <div class="mb-3">
-                            <label for="employeePhone" class="form-label">Telefone:</label>
-                            <input type="tel" class="form-control" id="employeePhone" required>
+                            <label for="washTypePrice" class="form-label">Preço (R$):</label>
+                            <input type="number" class="form-control" id="washTypePrice" required>
                         </div>
-                        <div class="mb-3">
-                            <label for="employeeWhatsApp" class="form-label">WhatsApp:</label>
-                            <input type="tel" class="form-control" id="employeeWhatsApp" required>
-                        </div>
-                        <button type="submit" class="btn btn-primary">Adicionar Funcionário</button>
+                        <button type="submit" class="btn btn-primary">Adicionar Tipo de Lavagem</button>
                     </form>
                 </div>
             </div>
