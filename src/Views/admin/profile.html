@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seu Lava Jato a Domicílio</title>
+    <title>Perfil do Usuário - Seu Lava Jato a Domicílio</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
 
@@ -21,10 +21,7 @@
                             <a class="nav-link" href="./dashboard.html">Dashboard</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./employees.html">Funcionários</a>
-                        </li>                        
-                        <li class="nav-item">
-                            <a class="nav-link" href="./profile.html">Perfil</a>
+                            <a class="nav-link" href="./profile.html">Profile</a>
                         </li>
                         <li class="nav-item ml-auto">
                             <a class="nav-link" href="#">Sair</a>
@@ -35,32 +32,16 @@
         </div>
     </header>
 
-    <div class="hero bg-white text-white text-center py-5">
-        <div class="container">
-            <h2>Bem-vindo ao Seu Lava Jato a Domicílio!</h2>
-            <!-- Tabela -->
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>Endereço</th>
-                        <th>Ações</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <!-- Linha da tabela com dados de exemplo -->
-                    <tr>
-                        <td>1</td>
-                        <td>Rua Exemplo, 123</td>
-                        <td>
-                            <!-- Botões de editar e fechar -->
-                            <a href="./edit-request.html"><button type="button" class="btn btn-warning">Editar</button></a>
-                            <a href="./review.html"><button type="button" class="btn btn-danger">Fechar</button></a>
-                        </td>
-                    </tr>
-                    <!-- Adicione mais linhas conforme necessário -->
-                </tbody>
-            </table>
+    <div class="container mt-5">        
+        <h2>Perfil do Usuário</h2>
+        <a href="./edit-profile.html" class="btn btn-primary">Editar Perfil</a>        
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Informações pessoais -->
+                <h4>Informações Pessoais</h4>
+                <p><strong>Nome:</strong> John Doe</p>
+                <p><strong>Senha:</strong> **************</p>
+            </div>
         </div>
     </div>
 

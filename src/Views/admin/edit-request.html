@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Lava Jato a Domicílio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    <header class="bg-primary">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="#">
+                    <img src="../assets/logo.png" alt="Logo" style="max-height: 40px;">
+                </a> 
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./dashboard.html">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./profile.html">Profile</a>
+                        </li>
+                        <li class="nav-item ml-auto">
+                            <a class="nav-link" href="#">Sair</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="hero bg-white text-center py-5">
+        <div class="container">
+            <h2>Editar Perfil</h2>
+            <!-- Formulário -->
+            <form>
+                <!-- ID (Input Desativado) -->
+                <div class="mb-3">
+                    <label for="id" class="form-label">ID:</label>
+                    <input type="text" class="form-control" id="id" value="1" disabled>
+                </div>
+                <!-- Endereço -->
+                <div class="mb-3">
+                    <label for="endereco" class="form-label">Endereço:</label>
+                    <input type="text" class="form-control" id="endereco" value="Rua Exemplo, 123">
+                </div>
+                <!-- Data -->
+                <div class="mb-3">
+                    <label for="data" class="form-label">Data:</label>
+                    <input type="date" class="form-control" id="data" value="2023-01-01">
+                </div>
+                <!-- Telefone -->
+                <div class="mb-3">
+                    <label for="telefone" class="form-label">Telefone:</label>
+                    <input type="tel" class="form-control" id="telefone" value="(123) 456-7890">
+                </div>
+                <!-- Funcionário (Select) -->
+                <div class="mb-3">
+                    <label for="funcionario" class="form-label">Funcionário:</label>
+                    <select class="form-select" id="funcionario">
+                        <option value="0">Desatribuído</option>
+                        <option value="1">Funcionário 1</option>
+                        <option value="2">Funcionário 2</option>
+                        <option value="3">Funcionário 3</option>
+                    </select>
+                </div>
+                <!-- Botão de Salvar Alterações -->
+                <button type="submit" class="btn btn-primary">Salvar Alterações</button>
+            </form>
+        </div>
+    </div>
+
+    <footer class="bg-primary text-white text-center py-3">
+        <div class="container">
+            <p>&copy; 2023 Seu Lava Jato a Domicílio</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

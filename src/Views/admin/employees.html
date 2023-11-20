@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Lava Jato a Domicílio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    <header class="bg-primary text-white">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="#">
+                    <img src="../assets/logo.png" alt="Logo" style="max-height: 40px;">
+                </a>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./dashboard.html">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./employees.html">Funcionários</a>
+                        </li>                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="./profile.html">Perfil</a>
+                        </li>
+                        <li class="nav-item ml-auto">
+                            <a class="nav-link" href="#">Sair</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container mt-5">
+        <h2>Lista de Funcionários</h2>
+        <ul class="list-group">
+            <!-- Empregado 1 -->
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <strong>Nome do Funcionário 1</strong>
+                    <p>Telefone: (123) 456-7890</p>
+                    <p>WhatsApp: (123) 456-7890</p>
+                </div>
+                <button type="button" class="btn btn-danger">Remover</button>
+            </li>
+            <!-- Empregado 2 -->
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <strong>Nome do Funcionário 2</strong>
+                    <p>Telefone: (123) 456-7890</p>
+                    <p>WhatsApp: (123) 456-7890</p>
+                </div>
+                <button type="button" class="btn btn-danger">Remover</button>
+            </li>
+            <!-- Adicionar novo funcionário -->
+            <li class="list-group-item">
+                <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEmployeeModal">
+                    Adicionar Novo Funcionário
+                </button>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Modal para adicionar novo funcionário -->
+    <div class="modal fade" id="addEmployeeModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Adicionar Novo Funcionário</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="employeeName" class="form-label">Nome do Funcionário:</label>
+                            <input type="text" class="form-control" id="employeeName" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="employeePhone" class="form-label">Telefone:</label>
+                            <input type="tel" class="form-control" id="employeePhone" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="employeeWhatsApp" class="form-label">WhatsApp:</label>
+                            <input type="tel" class="form-control" id="employeeWhatsApp" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Adicionar Funcionário</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-primary text-white text-center py-3">
+        <div class="container">
+            <p>&copy; 2023 Seu Lava Jato a Domicílio</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

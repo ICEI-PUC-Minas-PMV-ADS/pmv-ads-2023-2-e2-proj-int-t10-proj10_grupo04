@@ -1,10 +1,11 @@
+<!-- edit-profile.html -->
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seu Lava Jato a Domicílio</title>
+    <title>Editar Perfil - Seu Lava Jato a Domicílio</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
 
@@ -35,33 +36,22 @@
         </div>
     </header>
 
-    <div class="hero bg-white text-white text-center py-5">
-        <div class="container">
-            <h2>Bem-vindo ao Seu Lava Jato a Domicílio!</h2>
-            <!-- Tabela -->
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>Endereço</th>
-                        <th>Ações</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <!-- Linha da tabela com dados de exemplo -->
-                    <tr>
-                        <td>1</td>
-                        <td>Rua Exemplo, 123</td>
-                        <td>
-                            <!-- Botões de editar e fechar -->
-                            <a href="./edit-request.html"><button type="button" class="btn btn-warning">Editar</button></a>
-                            <a href="./review.html"><button type="button" class="btn btn-danger">Fechar</button></a>
-                        </td>
-                    </tr>
-                    <!-- Adicione mais linhas conforme necessário -->
-                </tbody>
-            </table>
-        </div>
+    <div class="container mt-5">
+        <h2>Editar Perfil</h2>
+        <form>
+            <!-- Nome de Usuário e Senha (Já existentes) -->
+            <div class="mb-3">
+                <label for="username" class="form-label">Nome de Usuário:</label>
+                <input type="text" class="form-control" id="username" name="username" value="JohnDoe" disabled>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Senha:</label>
+                <input type="password" class="form-control" id="password" name="password" value="********" disabled>
+            </div>
+
+            <!-- Botão de Salvar Alterações -->
+            <button type="submit" class="btn btn-primary">Salvar Alterações</button>
+        </form>
     </div>
 
     <footer class="bg-primary text-white text-center py-3">
