@@ -11,4 +11,4 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 |RF-011| Permitir cadastro de usuário            | UsuarioController.cs / index.html|
 # Instruções de acesso
 
-Link onde a aplicação estará disponível: https://lavajatoadomicilio.azurewebsites.net/
+Link onde a aplicação estará disponível: https://lavaadomicilioapi20231202152810.azurewebsites.net/
